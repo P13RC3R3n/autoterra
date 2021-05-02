@@ -19,3 +19,21 @@ AutoTerra deliberately chooses to be a client-side application and not a smart-c
 * To simplify audits/tests
 * To reduce attack surface area(nothing is stored in centralized pools/contracts)
 * Author's development experience is primarily on traditional applications
+
+## Status
+
+AutoTerra is currently a work in progress with the UI mockups complete for a few features.
+
+## UI Screenshots
+
+**Dashboard**
+
+![plot](./screenshots/dashboard.PNG)
+
+**Airdrops**
+
+![plot](./screenshots/anchor_airdrops.PNG)
+
+**Liquidation Protection**
+
+![plot](./screenshots/anchor_liquidation.PNG)
